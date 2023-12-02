@@ -1,0 +1,7 @@
+pip files to install
+
+Streamlit and Mysql
+
+commands : 
+pip install streamlit
+pip install mysql-connection-python
